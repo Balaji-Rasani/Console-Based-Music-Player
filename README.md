@@ -154,9 +154,12 @@ java Main
 🖼️ GUI version with JavaFX or Swing
 
 
+---
+
 🤝 Contributing
 Found a bug or want to suggest a new feature? Feel free to fork the repo and create a pull request!
-####################################################################################################
+
+---
 
 👤 Author
 Your Name: Balaji-Rasani
