@@ -1,6 +1,3 @@
-# Console-Based-Music-Player
-Projects
-
 # 🎮 Console-Based Music Player in Java 🎧
 
 Welcome to the **Console-Based Music Player**, a 🎮 gaming-style menu-driven application built in **Java** using Object-Oriented Programming concepts. This project lets users add, organize, and simulate playback of songs and playlists right from the terminal!
